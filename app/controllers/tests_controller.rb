@@ -1,3 +1,4 @@
 class TestsController < ApplicationController
-  <%= link_to 'テスト', '#' %>
+  def index
+  end
 end
